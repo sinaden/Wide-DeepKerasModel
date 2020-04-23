@@ -9,3 +9,6 @@ The code in while the model is build and saved as a h5 file is at the "Wide and 
 
 
 The "prediction file.ipynb" is the piece in which we use the saved h5 model in order to predict the prices from handwritten inputs. 
+
+
+&#x1F539;  The model structure is taken from a wine price prediction model and it was not buildt from scratch. 
